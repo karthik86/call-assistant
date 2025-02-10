@@ -7,3 +7,5 @@ Used chatgpt to generate code related to open ai client on how to convert video 
 Also, I used chatgpt to perform conversation ai and to correct python syntax.
 
 # how to run this application
+
+cli.py {token}
